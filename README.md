@@ -66,7 +66,7 @@ The coefficient of interest is $\beta_3$, which captures the **Difference-in-Dif
 ### Conclusion
 Based on this specific DiD analysis using the selected states and time periods, **there is no clear statistical evidence** that the Dobbs decision had a causal effect on women’s labor force participation. The estimated effect, while positive, is not statistically significant.
 
----
+![Employment Status By State](./assets/empstat_plot.png)
 
 ## Repository Structure
 
